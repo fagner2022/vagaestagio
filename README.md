@@ -27,8 +27,8 @@ Inicial: K = 1, SOMA = 0
 3ª iteração: K = 4, SOMA = 5 + 4 = 9
 4ª iteração: K = 5, SOMA = 9 + 5 = 14
 5ª iteração: K = 6, SOMA = 14 + 6 = 20
-6ª iteração: `K = 7, SOMA = 20 + 7 = 27
-7ª iteração: `K = 8, SOMA = 27 + 8 = 35
+6ª iteração: K = 7, SOMA = 20 + 7 = 27
+7ª iteração: K = 8, SOMA = 27 + 8 = 35
 8ª iteração: K = 9, SOMA = 35 + 9 = 44
 9ª iteração: K = 10, SOMA = 44 + 10 = 54
 10ª iteração: K = 11, SOMA = 54 + 11 = 65
